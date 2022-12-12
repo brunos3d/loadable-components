@@ -1,3 +1,3 @@
-import React from 'react'
+import { getChunkExtractorContext } from './getChunkExtractorContext'
 
-export default React.createContext()
+export default getChunkExtractorContext()
